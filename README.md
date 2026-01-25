@@ -2,7 +2,7 @@
 
 ###
 
-<img src="winter.jpg" alt="logo" width="300" style="vertical-align: middle;"> <p align="left">My name is Rangga Puri Darmawan and I'm a information technology education students from Indonesia</p>
+<p align="left">My name is Rangga Puri Darmawan and I'm a information technology education students from Indonesia</p>
 ###
 
 <h2 align="left">About me</h2>
