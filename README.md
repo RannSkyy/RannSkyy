@@ -36,7 +36,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/RannSkyy/RannSkyy/output/snake.svg" alt="Snake animation" />
-
-###
