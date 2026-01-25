@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning Web Dev<br>🎯 Goals: Honest<br>🎲 Fun fact: Likes sleeping</p>
+<p align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning Web Dev<br>🎯 Goals: Progammer<br>🎲 Fun fact: Likes to sleep</p>
 
 ###
 
