@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Rangga Puri Drmawan</h1>
+<h1 align="center">Hello World! 👋 I'm Rangga Puri Darmawan</h1>
 <h3 align="center">information technology education students | Tech Enthusiast</h3>
 
 <p align="center">
