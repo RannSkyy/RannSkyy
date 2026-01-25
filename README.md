@@ -11,8 +11,7 @@
 ###
 
 <p>
-  <img src="[logo.png](https://wallhaven.cc/w/95j3mw)" alt="logo" width="30" style="vertical-align: middle;">
-  Selamat datang di website saya.
+  <img src="winter.jpg" alt="logo" width="30" style="vertical-align: middle;">
 </p>
 
 <p align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning Web Dev<br>🎯 Goals: Progammer<br>🎲 Fun fact: Likes to sleep</p>
