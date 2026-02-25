@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<img src="bg.png" width="200" style="border-radius:50%;" />
+<img src="BG.png" width="200" style="border-radius:50%;" />
 
 <p align="left">My name is Rangga Puri Darmawan and I'm a information technology education students from Indonesia</p>
 
