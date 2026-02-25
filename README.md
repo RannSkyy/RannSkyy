@@ -3,12 +3,12 @@
 ###
 <img src="BG.png" width="1000" style="border-radius:50%;" />
 
-<p align="left">Hello World! I'm Rangga Puri Darmawan, an Information Technology Education student from Yogyakarta, Indonesia. I have a strong interest in technology and digital creativity, especially in front-end development. I enjoy building responsive and user-friendly web interfaces that combine clean design with well-structured code. For me, creating a website is not only about writing code, but also about delivering meaningful and comfortable user experiences for users.
+<p align="justify">Hello World! I'm Rangga Puri Darmawan, an Information Technology Education student from Yogyakarta, Indonesia. I have a strong interest in technology and digital creativity, especially in front-end development. I enjoy building responsive and user-friendly web interfaces that combine clean design with well-structured code. For me, creating a website is not only about writing code, but also about delivering meaningful and comfortable user experiences for users.
 
 As I continue growing in the field of technology, I focus on strengthening my skills in modern web development such as HTML, CSS, and JavaScript. In addition, I am currently learning basic back-end development using Python to better understand how systems work behind the scenes. I am passionate about integrating technology into education and aspire to contribute both as a developer and as an educator. My goal is to continuously create innovative solutions while inspiring others through technology and learning.</p>
 
 ###
-
+<1--
 <h2 align="left">About me</h2>
 
 ###
@@ -18,7 +18,7 @@ As I continue growing in the field of technology, I focus on strengthening my sk
 ###
 
 <h2 align="left">I code with</h2>
-
+-->
 ###
 
 <div align="left">
