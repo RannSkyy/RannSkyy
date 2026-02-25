@@ -8,18 +8,6 @@
 As I continue growing in the field of technology, I focus on strengthening my skills in modern web development such as HTML, CSS, and JavaScript. In addition, I am currently learning basic back-end development using Python to better understand how systems work behind the scenes. I am passionate about integrating technology into education and aspire to contribute both as a developer and as an educator. My goal is to continuously create innovative solutions while inspiring others through technology and learning.</p>
 
 ###
-<1--
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning Web Dev<br>🎯 Goals: Honest<br>🎲 Fun fact: Likes sleeping</p>
-
-###
-
-<h2 align="left">I code with</h2>
--->
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
