@@ -1,7 +1,7 @@
 <h1 align="left">Hello World!👋</h1>
 
 ###
-<img src="BG.png" width="1000" style="border-radius:50%;" />
+<img src="BGG.png" width="1000" style="border-radius:50%;" />
 
 <p align="justify">
 Hello World! I'm Rangga Puri Darmawan, an Information Technology Education student from Yogyakarta, Indonesia. I have a strong interest in technology and digital creativity, especially in front-end development. I enjoy building responsive and user-friendly web interfaces that combine clean design with well-structured code. For me, creating a website is not only about writing code, but also about delivering meaningful and comfortable user experiences for users.</p>
